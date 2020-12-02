@@ -1,4 +1,4 @@
-## Booking.com Database Reverse Engineered
+## Booking.com Reverse
 
 MSc Software Development, Database Project. Grade: Distinction, 72%. A reverse engineered database of the booking.com database.  
 
