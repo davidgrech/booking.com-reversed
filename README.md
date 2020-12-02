@@ -1,9 +1,10 @@
-# booking.com-database
-A reverse engineered database of Booking.com
+## booking.com-database
 
-View documentation [here](../master/Documentation.pdf).
+MSc Software Development, Database Project. Grade: Distinction, 72%. A reverse engineered database of the booking.com database.  
+
+View [Documentation](../master/Documentation.pdf)
 
 
-#### ER Diagram:
+## ER Diagram:
 
 ![alt text](https://github.com/davidgrech/booking.com-reversed/blob/master/ER-diagram.png)
